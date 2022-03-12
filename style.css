@@ -150,13 +150,13 @@ nav {
 }
 
 #bot-imgL {
-  background-image: url(./images/image-about-dark.jpg);
+  background-image: url(image-about-dark.jpg);
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 #bot-imgR {
-  background-image: url(./images/image-about-light.jpg);
+  background-image: url(image-about-light.jpg);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -313,13 +313,13 @@ nav {
     background-size: cover;
   }
   #bot-imgL {
-    background-image: url(./images/image-about-dark.jpg);
+    background-image: url(image-about-dark.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   #bot-imgR {
-    background-image: url(./images/image-about-light.jpg);
+    background-image: url(image-about-light.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
