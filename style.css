@@ -155,6 +155,10 @@ nav {
   background-size: contain;
 }
 
+.arrow-mobs{
+  display:none;
+}
+
 #bot-imgR {
   background-image: url(image-about-light.jpg);
   background-repeat: no-repeat;
